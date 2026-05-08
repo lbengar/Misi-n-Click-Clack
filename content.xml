@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260508203034PVTDDO</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260508203034GMTIT0</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>¡Misión Click- Clack: Superhéroes en movimiento!</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Laura Benítez García</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778172056234</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>0519f56b-1c0f-4093-a4c4-a2b9fdd727b6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INICIO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INICIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>INICIO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>0519f56b-1c0f-4093-a4c4-a2b9fdd727b6</odePageId>
+      <odeBlockId>block-1778009120454-q0ousazwc</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>0519f56b-1c0f-4093-a4c4-a2b9fdd727b6</odePageId>
+          <odeBlockId>block-1778009120454-q0ousazwc</odeBlockId>
+          <odeIdeviceId>idevice-1778009120452-4yw1migma</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p>¡Hola, equipo! 🦸‍♂️🦸‍♀️<br />Bienvenidos a la Academia de Entrenamiento Digital.</p>
+<p>En esta aventura no solo vamos a correr y saltar, sino que vamos a usar las "tablets mágicas" para convertirnos en auténticos reporteros de nuestra salud.<br /></p>
+<p>Nuestra misión:</p>
+<p>Superar 6 retos físicos y crear un álbum de fotos de superhéroes.<br /></p>
+<p>¿Con quién? Trabajaremos por parejas de ayuda (¡un superhéroe nunca deja solo a su compañero!).<br /> </p>
+<p>Nivel: 1º de Educación Primaria (EF).<br />Temporalización: 5 sesiones + Sesión 0 (Alfabetización digital).<br />Metodología: DUA y aprendizaje cooperativo.</p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>  <img src="{{context_path}}/content/resources/pngtree-adorable-super-baby-young-superhero-kid-cartoon-on-transparent-background-png-image_18714050.png" width="267" height="267" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778009120452-4yw1migma","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p>¡Hola, equipo! 🦸‍♂️🦸‍♀️<br />Bienvenidos a la Academia de Entrenamiento Digital.</p>\n<p>En esta aventura no solo vamos a correr y saltar, sino que vamos a usar las \"tablets mágicas\" para convertirnos en auténticos reporteros de nuestra salud.<br /></p>\n<p>Nuestra misión:</p>\n<p>Superar 6 retos físicos y crear un álbum de fotos de superhéroes.<br /></p>\n<p>¿Con quién? Trabajaremos por parejas de ayuda (¡un superhéroe nunca deja solo a su compañero!).<br /> </p>\n<p>Nivel: 1º de Educación Primaria (EF).<br />Temporalización: 5 sesiones + Sesión 0 (Alfabetización digital).<br />Metodología: DUA y aprendizaje cooperativo.</p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>  <img src=\"{{context_path}}/content/resources/pngtree-adorable-super-baby-young-superhero-kid-cartoon-on-transparent-background-png-image_18714050.png\" width=\"267\" height=\"267\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p>  <img src=\"{{context_path}}/content/resources/pngtree-adorable-super-baby-young-superhero-kid-cartoon-on-transparent-background-png-image_18714050.png\" width=\"267\" height=\"267\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778180302399-80sgfg3bk</odePageId>
+  <odeParentPageId>0519f56b-1c0f-4093-a4c4-a2b9fdd727b6</odeParentPageId>
+  <pageName>PROYECTO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROYECTO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778180302399-80sgfg3bk</odePageId>
+      <odeBlockId>block-1778180308250-y4oh7wsk6</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778180302399-80sgfg3bk</odePageId>
+          <odeBlockId>block-1778180308250-y4oh7wsk6</odeBlockId>
+          <odeIdeviceId>idevice-1778180308249-fixnzc32i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Título del Proyecto: "¡Misión Clic-Clac: Superhéroes en Movimiento!" </p>
+<p>Elementos del Proyecto</p>
+<p>Centro de interés: Una aventura de entrenamiento de superhéroes. El alumnado debe superar "misiones" (estaciones de habilidades motrices) para conseguir sus superpoderes, utilizando "escáneres mágicos" (tablets con QR) que les revelan cómo ejecutar cada desafío físico y consejos de vida saludable.<br />Nivel: 1º de Educación Primaria (6-7 años).<br />Temporalización: 5 sesiones de 60 minutos (incluyendo la "Academia de Entrenamiento Digital" inicial).<br />Idioma: castellano<br />Materias: Educación Física (principal) y Conocimiento del Medio (hábitos saludables).<br />Descripción: El alumnado realiza  un circuito gamificado de 6 estaciones. En cada una, deben escanear un código QR que desbloquea un vídeo (grabado previamente por la maestra o alumnos de cursos superiores). Se busca que trabajen saltos, lanzamientos y equilibrio de forma autónoma, integrando el uso de la tecnología como una herramienta de consulta y no solo de ocio, fomentando el trabajo cooperativo en parejas de "héroes".<br /></p>
+<p>Justificación del Proyecto</p>
+<p>"Alfabetización Previa": En la rutina se detectó estrés docente e inseguridad inicial . Por ello, este proyecto justifica la inclusión de una sesión 0 de "Academia Digital", donde los niños aprenden a encender, sujetar y enfocar la tablet antes de salir al patio, reduciendo así la frustración técnica posterior .<br />Optimización del tiempo y logística: Tras observar pérdida de tiempo en la organización inicial , se justifica una nueva estructura donde los recursos digitales están precargados y en modo kiosco, asegurando el tiempo de actividad física y no la configuración del dispositivo.<br />Potenciación del éxito visual: La rutina confirmó que el apoyo visual digital facilitó la comprensión de tareas en 1º de Primaria . Este proyecto refuerza esa línea, utilizando vídeos sin audio complejo pero con señales visuales claras, adaptándose al nivel de lectoescritura del grupo.<br />Fomento de la Autonomía Cooperativa: Dado que algunos alumnos mostraron mayor destreza técnica que otros en el uso de los dispositivos, el proyecto se justifica bajo un modelo de "parejas de ayuda", donde se asignan roles rotativos para que la tecnología sea un vehículo de inclusión y apoyo mutuo, y no una barrera .</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778180308249-fixnzc32i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Título del Proyecto: \"¡Misión Clic-Clac: Superhéroes en Movimiento!\" </p>\n<p>Elementos del Proyecto</p>\n<p>Centro de interés: Una aventura de entrenamiento de superhéroes. El alumnado debe superar \"misiones\" (estaciones de habilidades motrices) para conseguir sus superpoderes, utilizando \"escáneres mágicos\" (tablets con QR) que les revelan cómo ejecutar cada desafío físico y consejos de vida saludable.<br />Nivel: 1º de Educación Primaria (6-7 años).<br />Temporalización: 5 sesiones de 60 minutos (incluyendo la \"Academia de Entrenamiento Digital\" inicial).<br />Idioma: castellano<br />Materias: Educación Física (principal) y Conocimiento del Medio (hábitos saludables).<br />Descripción: El alumnado realiza  un circuito gamificado de 6 estaciones. En cada una, deben escanear un código QR que desbloquea un vídeo (grabado previamente por la maestra o alumnos de cursos superiores). Se busca que trabajen saltos, lanzamientos y equilibrio de forma autónoma, integrando el uso de la tecnología como una herramienta de consulta y no solo de ocio, fomentando el trabajo cooperativo en parejas de \"héroes\".<br /></p>\n<p>Justificación del Proyecto</p>\n<p>\"Alfabetización Previa\": En la rutina se detectó estrés docente e inseguridad inicial . Por ello, este proyecto justifica la inclusión de una sesión 0 de \"Academia Digital\", donde los niños aprenden a encender, sujetar y enfocar la tablet antes de salir al patio, reduciendo así la frustración técnica posterior .<br />Optimización del tiempo y logística: Tras observar pérdida de tiempo en la organización inicial , se justifica una nueva estructura donde los recursos digitales están precargados y en modo kiosco, asegurando el tiempo de actividad física y no la configuración del dispositivo.<br />Potenciación del éxito visual: La rutina confirmó que el apoyo visual digital facilitó la comprensión de tareas en 1º de Primaria . Este proyecto refuerza esa línea, utilizando vídeos sin audio complejo pero con señales visuales claras, adaptándose al nivel de lectoescritura del grupo.<br />Fomento de la Autonomía Cooperativa: Dado que algunos alumnos mostraron mayor destreza técnica que otros en el uso de los dispositivos, el proyecto se justifica bajo un modelo de \"parejas de ayuda\", donde se asignan roles rotativos para que la tecnología sea un vehículo de inclusión y apoyo mutuo, y no una barrera .</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778009072285-f3sy4y4k4</odePageId>
+  <odeParentPageId>0519f56b-1c0f-4093-a4c4-a2b9fdd727b6</odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778009072285-f3sy4y4k4</odePageId>
+      <odeBlockId>block-1778012326597-rivtv6463</odeBlockId>
+      <blockName>Tareas y Criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778009072285-f3sy4y4k4</odePageId>
+          <odeBlockId>block-1778012326597-rivtv6463</odeBlockId>
+          <odeIdeviceId>idevice-1778012326595-eo2t06yya</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="{{context_path}}/content/resources/Tareas y Criterios de evaluación..pdf" title="">{{context_path}}/content/resources/Tareas y Criterios de evaluación..pdf</a></p>
+<p><a href="https://docs.google.com/document/d/10bJJgSScQLqGzWf5stql-vyRi_o8Sqo_S-pHF90aYu8/edit?usp=sharing" title="">https://docs.google.com/document/d/10bJJgSScQLqGzWf5stql-vyRi_o8Sqo_S-pHF90aYu8/edit?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778012326595-eo2t06yya","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"{{context_path}}/content/resources/Tareas y Criterios de evaluación..pdf\" title=\"\">{{context_path}}/content/resources/Tareas y Criterios de evaluación..pdf</a></p>\n<p><a href=\"https://docs.google.com/document/d/10bJJgSScQLqGzWf5stql-vyRi_o8Sqo_S-pHF90aYu8/edit?usp=sharing\" title=\"\">https://docs.google.com/document/d/10bJJgSScQLqGzWf5stql-vyRi_o8Sqo_S-pHF90aYu8/edit?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778009072285-f3sy4y4k4</odePageId>
+      <odeBlockId>block-1778181094776-v1spkni9j</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778009072285-f3sy4y4k4</odePageId>
+          <odeBlockId>block-1778181094776-v1spkni9j</odeBlockId>
+          <odeIdeviceId>idevice-1778169155636-41ukw9sge</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">¡Misión Click- Clack: Superhéroes en movimiento!</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Laura Benítez García</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778008989770-grlb25cq5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>NUESTRAS REGLAS</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>NUESTRAS REGLAS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778008989770-grlb25cq5</odePageId>
+      <odeBlockId>block-1778009550503-komfjw5ox</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778008989770-grlb25cq5</odePageId>
+          <odeBlockId>block-1778009550503-komfjw5ox</odeBlockId>
+          <odeIdeviceId>idevice-1778009550501-a5pje0n6z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p style="text-align: center;">¡Un buen superhéroe siempre protege a su equipo! 🛡️<br />Antes de encender las tablets, recuerda nuestras 3 Reglas de Oro:<br /></p>
+<p style="text-align: center;">Pide permiso: Pregunta siempre: "¿Puedo hacerte una foto?".</p>
+<p style="text-align: center;">¡Solo disparamos si dicen que sí! ✅<br />Solo para el cole: Nuestras fotos son para nuestro "Muro de Logros" secreto.</p>
+<p style="text-align: center;">No se pueden enseñar fuera de clase. 🏫<br />Cuida tu imagen: No compartas datos privados.</p>
+<p style="text-align: center;">¡Tu mejor escudo es tu seguridad!</p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><img src="{{context_path}}/content/resources/tablet.jpg" width="800" height="2000" alt="" /></p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778009550501-a5pje0n6z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p style=\"text-align: center;\">¡Un buen superhéroe siempre protege a su equipo! 🛡️<br />Antes de encender las tablets, recuerda nuestras 3 Reglas de Oro:<br /></p>\n<p style=\"text-align: center;\">Pide permiso: Pregunta siempre: \"¿Puedo hacerte una foto?\".</p>\n<p style=\"text-align: center;\">¡Solo disparamos si dicen que sí! ✅<br />Solo para el cole: Nuestras fotos son para nuestro \"Muro de Logros\" secreto.</p>\n<p style=\"text-align: center;\">No se pueden enseñar fuera de clase. 🏫<br />Cuida tu imagen: No compartas datos privados.</p>\n<p style=\"text-align: center;\">¡Tu mejor escudo es tu seguridad!</p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><img src=\"{{context_path}}/content/resources/tablet.jpg\" width=\"800\" height=\"2000\" alt=\"\" /></p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p><img src=\"{{context_path}}/content/resources/tablet.jpg\" width=\"800\" height=\"2000\" alt=\"\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778009008252-l8nxnyrmh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>LA GRAN MISIÓN</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LA GRAN MISIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778009008252-l8nxnyrmh</odePageId>
+      <odeBlockId>block-1778011271125-uf9s85m43</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778009008252-l8nxnyrmh</odePageId>
+          <odeBlockId>block-1778011271125-uf9s85m43</odeBlockId>
+          <odeIdeviceId>idevice-1778011271122-deyr47n27</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p>Para graduaros en la Academia, cada pareja deberá completar su <strong>Álbum Digital de Entrenamiento:</strong><br /></p>
+<p><strong>El Clic-Clac Saludable:</strong> 3 fotos superando retos (salto, equilibrio y comiendo la fruta del recreo). 📸<br /></p>
+<p><strong>El Muro de Logros: </strong>Subir vuestra mejor foto al Padlet de la clase con un emoticono de cómo os habéis sentido. 😊<br /><strong>El Diario de Voz:</strong> Grabar un audio corto explicando vuestro superpoder favorito. 🎤</p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><img src="{{context_path}}/content/resources/—Pngtree—cute cartoon girl superhero with_22973583.png" width="418" height="418" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778011271122-deyr47n27","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p>Para graduaros en la Academia, cada pareja deberá completar su <strong>Álbum Digital de Entrenamiento:</strong><br /></p>\n<p><strong>El Clic-Clac Saludable:</strong> 3 fotos superando retos (salto, equilibrio y comiendo la fruta del recreo). 📸<br /></p>\n<p><strong>El Muro de Logros: </strong>Subir vuestra mejor foto al Padlet de la clase con un emoticono de cómo os habéis sentido. 😊<br /><strong>El Diario de Voz:</strong> Grabar un audio corto explicando vuestro superpoder favorito. 🎤</p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><img src=\"{{context_path}}/content/resources/—Pngtree—cute cartoon girl superhero with_22973583.png\" width=\"418\" height=\"418\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p><img src=\"{{context_path}}/content/resources/—Pngtree—cute cartoon girl superhero with_22973583.png\" width=\"418\" height=\"418\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778009024152-zt9k6zeg0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>MOCHILA DE RECURSOS</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>MOCHILA DE RECURSOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778009024152-zt9k6zeg0</odePageId>
+      <odeBlockId>block-1778011406621-knj7ql5l6</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778009024152-zt9k6zeg0</odePageId>
+          <odeBlockId>block-1778011406621-knj7ql5l6</odeBlockId>
+          <odeIdeviceId>idevice-1778011406619-jw3f7751f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p style="text-align: center;">¡Aquí tienes tus herramientas de héroe! 🎒<br />Para los Alumnos (Nuestro Mapa Visual):<br />👉 <a href="https://www.symbaloo.com/shared/AAAAAe6QxjkAA41-5EO8ng==">https://www.symbaloo.com/shared/AAAAAe6QxjkAA41-5EO8ng==</a></p>
+<p style="text-align: center;">(En este panel encontrarás los vídeos de calentamiento).<br />Para la Profe (Gestión Docente):<br />👉 <a href="https://wakelet.com/wake/RGGt4PUArzhUvIUvtmDou">https://wakelet.com/wake/RGGt4PUArzhUvIUvtmDou</a></p>
+<p style="text-align: center;"><br /></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><img src="{{context_path}}/content/resources/—Pngtree—cute superhero boy illustration_21001386.png" width="362" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778011406619-jw3f7751f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p style=\"text-align: center;\">¡Aquí tienes tus herramientas de héroe! 🎒<br />Para los Alumnos (Nuestro Mapa Visual):<br />👉 <a href=\"https://www.symbaloo.com/shared/AAAAAe6QxjkAA41-5EO8ng==\">https://www.symbaloo.com/shared/AAAAAe6QxjkAA41-5EO8ng==</a></p>\n<p style=\"text-align: center;\">(En este panel encontrarás los vídeos de calentamiento).<br />Para la Profe (Gestión Docente):<br />👉 <a href=\"https://wakelet.com/wake/RGGt4PUArzhUvIUvtmDou\">https://wakelet.com/wake/RGGt4PUArzhUvIUvtmDou</a></p>\n<p style=\"text-align: center;\"><br /></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><img src=\"{{context_path}}/content/resources/—Pngtree—cute superhero boy illustration_21001386.png\" width=\"362\" height=\"362\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p><img src=\"{{context_path}}/content/resources/—Pngtree—cute superhero boy illustration_21001386.png\" width=\"362\" height=\"362\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778009038686-a11d88w9m</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>MAPA DE ENTRENAMIENTO</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>MAPA DE ENTRENAMIENTO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778009038686-a11d88w9m</odePageId>
+      <odeBlockId>block-1778011993215-brje42rdm</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778009038686-a11d88w9m</odePageId>
+          <odeBlockId>block-1778011993215-brje42rdm</odeBlockId>
+          <odeIdeviceId>idevice-1778011993213-0kbf5n4yn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p>¿Por dónde vamos? 🗺️<br />Mira nuestro camino para no perderte ninguna misión:<br />Sesión 0: Aprendemos a usar la tablet.<br />Sesión 1 y 2: Retos físicos y fotos "Clic-Clac".<br />Sesión 3: Grabación del diario de voz.<br />Sesión 4: Gran Fiesta de Graduación.</p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><img src="{{context_path}}/content/resources/SESIÓN 1 EL CUARTEL GENERAL Espacio Aula  PDI. Tarea Explorar Symbaloo y retos. Agrupamiento Gran Grupo. Herramienta Symbaloo  Padlet..jpg" width="800" height="2000" alt="" /></p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778011993213-0kbf5n4yn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p>¿Por dónde vamos? 🗺️<br />Mira nuestro camino para no perderte ninguna misión:<br />Sesión 0: Aprendemos a usar la tablet.<br />Sesión 1 y 2: Retos físicos y fotos \"Clic-Clac\".<br />Sesión 3: Grabación del diario de voz.<br />Sesión 4: Gran Fiesta de Graduación.</p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><img src=\"{{context_path}}/content/resources/SESIÓN 1 EL CUARTEL GENERAL Espacio Aula  PDI. Tarea Explorar Symbaloo y retos. Agrupamiento Gran Grupo. Herramienta Symbaloo  Padlet..jpg\" width=\"800\" height=\"2000\" alt=\"\" /></p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p><img src=\"{{context_path}}/content/resources/SESIÓN 1 EL CUARTEL GENERAL Espacio Aula  PDI. Tarea Explorar Symbaloo y retos. Agrupamiento Gran Grupo. Herramienta Symbaloo  Padlet..jpg\" width=\"800\" height=\"2000\" alt=\"\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778009058319-arh2olfl4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿CÓMO ME VA?</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿CÓMO ME VA?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778009058319-arh2olfl4</odePageId>
+      <odeBlockId>block-1778012288513-ie5vfd2ik</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778009058319-arh2olfl4</odePageId>
+          <odeBlockId>block-1778012288513-ie5vfd2ik</odeBlockId>
+          <odeIdeviceId>idevice-1778012288512-fwks7ozve</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p>Reto de Sabios:</p>
+<p>Haz clic aquí para jugar al 👉 <a href="https://wayground.com/admin/assessment/69f7b4d20d738d25688ccfcf?source=lesson_share">https://wayground.com/admin/assessment/69f7b4d20d738d25688ccfcf?source=lesson_share</a></p>
+<p><br />Mi Diana de Evaluación: </p>
+<p><strong><a href="https://canva.link/inp6px58vsqibjn">https://canva.link/inp6px58vsqibjn</a></strong></p>
+<p><strong></strong><br /></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><img src="{{context_path}}/content/resources/HIGIENE.jpg" width="1414" height="2000" alt="" /></p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778012288512-fwks7ozve","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p>Reto de Sabios:</p>\n<p>Haz clic aquí para jugar al 👉 <a href=\"https://wayground.com/admin/assessment/69f7b4d20d738d25688ccfcf?source=lesson_share\">https://wayground.com/admin/assessment/69f7b4d20d738d25688ccfcf?source=lesson_share</a></p>\n<p><br />Mi Diana de Evaluación: </p>\n<p><strong><a href=\"https://canva.link/inp6px58vsqibjn\">https://canva.link/inp6px58vsqibjn</a></strong></p>\n<p><strong></strong><br /></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><img src=\"{{context_path}}/content/resources/HIGIENE.jpg\" width=\"1414\" height=\"2000\" alt=\"\" /></p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p><img src=\"{{context_path}}/content/resources/HIGIENE.jpg\" width=\"1414\" height=\"2000\" alt=\"\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778169141148-l8nt9dmod</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778169141148-l8nt9dmod</odePageId>
+      <odeBlockId>block-1778169155638-vs5r1tcjy</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778169141148-l8nt9dmod</odePageId>
+          <odeBlockId>block-1778169155638-vs5r1tcjy</odeBlockId>
+          <odeIdeviceId>idevice-1778181059743-bcyw0opyu</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">¡Misión Click- Clack: Superhéroes en movimiento!</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Laura Benítez García</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778169141148-l8nt9dmod</odePageId>
+      <odeBlockId>block-1778169187109-6q2h0pmey</odeBlockId>
+      <blockName>Tareas y Criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778169141148-l8nt9dmod</odePageId>
+          <odeBlockId>block-1778169187109-6q2h0pmey</odeBlockId>
+          <odeIdeviceId>idevice-1778169187107-8c6ie9eck</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p><a href="{{context_path}}/content/resources/Tareas y Criterios de evaluación..pdf" title="Tareas y Criterios de evaluación..pdf">{{context_path}}/content/resources/Tareas y Criterios de evaluación..pdf</a><img src="{{context_path}}/content/resources/Tareas y Criterios de evaluación..pdf" alt="" /></p>
+<p><a href="https://docs.google.com/document/d/10bJJgSScQLqGzWf5stql-vyRi_o8Sqo_S-pHF90aYu8/edit?usp=sharing" title="">https://docs.google.com/document/d/10bJJgSScQLqGzWf5stql-vyRi_o8Sqo_S-pHF90aYu8/edit?usp=sharing</a></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><img src="{{context_path}}/content/resources/Tareas y Criterios de evaluación..pdf" alt="" /></p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778169187107-8c6ie9eck","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p><a href=\"{{context_path}}/content/resources/Tareas y Criterios de evaluación..pdf\" title=\"Tareas y Criterios de evaluación..pdf\">{{context_path}}/content/resources/Tareas y Criterios de evaluación..pdf</a><img src=\"{{context_path}}/content/resources/Tareas y Criterios de evaluación..pdf\" alt=\"\" /></p>\n<p><a href=\"https://docs.google.com/document/d/10bJJgSScQLqGzWf5stql-vyRi_o8Sqo_S-pHF90aYu8/edit?usp=sharing\" title=\"\">https://docs.google.com/document/d/10bJJgSScQLqGzWf5stql-vyRi_o8Sqo_S-pHF90aYu8/edit?usp=sharing</a></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><img src=\"{{context_path}}/content/resources/Tareas y Criterios de evaluación..pdf\" alt=\"\" /></p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p><img src=\"{{context_path}}/content/resources/Tareas y Criterios de evaluación..pdf\" alt=\"\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
